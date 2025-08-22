@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=Sharpeanimroom,Windows=Sharpeanimroom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=Sharpeanimroom,Windows=Sharpeanimroom,_Debug=Sharpeanimroom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
