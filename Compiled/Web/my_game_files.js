@@ -1,0 +1,1 @@
+var gamefiles = ['Sharpeanimroom.ags', 'acsetup.cfg'];
